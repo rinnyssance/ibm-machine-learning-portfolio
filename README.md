@@ -565,30 +565,6 @@ Only materials permitted for public redistribution will be included.
 - **She Plus Tech** — Learning opportunity and scholarship support
 - **Open-source Python community** — Scientific computing and machine learning tools
 
-
----
-
-## 💜 Scholarship Recognition | She Plus Tech
-
-![She Plus Tech](https://img.shields.io/badge/She%20Plus%20Tech-Scholarship%20Recipient-6A00FF?style=for-the-badge)
-
-I am proud to be a recipient of a **100% Coursera scholarship through She Plus Tech**, which is supporting my participation in the **IBM Introduction to Machine Learning Specialization**.
-
-This scholarship provides an opportunity to deepen my technical knowledge in artificial intelligence, machine learning, data science, and statistical analysis while developing practical skills through IBM's educational curriculum.
-
-As a scientist and creative technologist, I see this opportunity as an important step toward my long-term goal of applying machine learning to **bioinformatics, systems biology, genomics, and scientific discovery**.
-
-I am especially grateful to **She Plus Tech** for investing in women's professional development and helping expand access to technical education.
-
-This repository is both a record of my learning journey and a reflection of the opportunities made possible through this scholarship.
-
-**Scholarship Provider:** She Plus Tech  
-**Educational Partner:** Coursera  
-**Specialization:** IBM Introduction to Machine Learning  
-**Scholarship Coverage:** 100%  
-
-*Thank you, She Plus Tech, for supporting my journey into machine learning and scientific computing!*
-
 ---
 
 ## 🔗 Official Resources
